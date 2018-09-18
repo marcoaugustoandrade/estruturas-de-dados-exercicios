@@ -21,7 +21,7 @@ public class Pilha {
 
     public void gerarPilha(int quantidade){
 
-        Random gerador = new Random(0);
+        Random gerador = new Random();
 
         for (int i = 0; i < quantidade; i++){
             No no = new No(gerador.nextInt(100));

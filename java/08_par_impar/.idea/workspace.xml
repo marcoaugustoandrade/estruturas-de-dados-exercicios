@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c6d5e7-e866-4308-b077-c09f686d8d08" name="Default Changelist" comment="">
+    <list default="true" id="4e90f857-3a99-490f-9cee-a8efc5aceeb4" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../05_inverter/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../05_inverter/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../05_inverter/.idea/vcs.xml" afterDir="false" />
@@ -10,14 +10,26 @@
       <change afterPath="$PROJECT_DIR$/../05_inverter/src/de/marcoandra/No.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../05_inverter/src/de/marcoandra/Pilha.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../05_inverter/src/de/marcoandra/Testar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_par_impar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/Testar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_numeros_pares/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_numeros_pares/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_numeros_pares/out/production/01_numeros_pares/de/marcoandra/Testar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_numeros_pares/out/production/01_numeros_pares/de/marcoandra/Testar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_numeros_pares/src/de/marcoandra/Testar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_numeros_pares/src/de/marcoandra/Testar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02_palavra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_palavra/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02_palavra/out/production/02_palavra/de/marcoandra/No.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02_palavra/out/production/02_palavra/de/marcoandra/No.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_inverso/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_inverso/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../06_conversor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_conversor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_conversor/out/production/06_conversor/de/marcoandra/Testar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../06_conversor/out/production/06_conversor/de/marcoandra/Testar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../06_conversor/src/de/marcoandra/Testar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06_conversor/src/de/marcoandra/Testar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_maior_menor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07_maior_menor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_maior_menor/out/production/07_maior_menor/de/marcoandra/Pilha.class" beforeDir="false" afterPath="$PROJECT_DIR$/../07_maior_menor/out/production/07_maior_menor/de/marcoandra/Pilha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_maior_menor/src/de/marcoandra/Pilha.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07_maior_menor/src/de/marcoandra/Pilha.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,12 +39,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="45677402">
+    <session id="1678856606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,27 +58,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2043" />
+          <entry key="java" value="585" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2043" />
+          <entry key="JAVA" value="585" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de/marcoandra/Pilha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            <state>
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/de/marcoandra/Testar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="432">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -97,8 +113,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/de/marcoandra/No.java" />
-        <option value="$PROJECT_DIR$/src/de/marcoandra/Testar.java" />
         <option value="$PROJECT_DIR$/src/de/marcoandra/Pilha.java" />
+        <option value="$PROJECT_DIR$/src/de/marcoandra/Testar.java" />
       </list>
     </option>
   </component>
@@ -122,24 +138,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="03_inverso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_inverso" type="462c0819:PsiDirectoryNode" />
+              <item name="08_par_impar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="08_par_impar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_inverso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_inverso" type="462c0819:PsiDirectoryNode" />
+              <item name="08_par_impar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="08_par_impar" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_inverso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_inverso" type="462c0819:PsiDirectoryNode" />
+              <item name="08_par_impar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="08_par_impar" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="marcoandra" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -147,13 +160,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537292525631" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537296784724" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -172,7 +186,7 @@
   <component name="RunManager">
     <configuration name="Testar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.marcoandra.Testar" />
-      <module name="03_inverso" />
+      <module name="08_par_impar" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="de.marcoandra.*" />
@@ -194,50 +208,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="09c6d5e7-e866-4308-b077-c09f686d8d08" name="Default Changelist" comment="" />
-      <created>1537209352990</created>
+      <changelist id="4e90f857-3a99-490f-9cee-a8efc5aceeb4" name="Default Changelist" comment="" />
+      <created>1537292833166</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537209352990</updated>
-      <workItem from="1537209355358" duration="4792000" />
-      <workItem from="1537292020548" duration="591000" />
+      <updated>1537292833166</updated>
+      <workItem from="1537292836415" duration="2999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5383000" />
+    <option name="totallyTimeSpent" value="2999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="27" width="1869" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2024136" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34170306" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3973799" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17553483" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32969433" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,25 +263,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/de/marcoandra/No.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="319">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding>
-            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/de/marcoandra/Pilha.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state>
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/de/marcoandra/Testar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="432">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>

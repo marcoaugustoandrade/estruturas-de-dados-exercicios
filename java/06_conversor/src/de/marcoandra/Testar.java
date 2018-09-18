@@ -6,7 +6,7 @@ public class Testar {
 
         Pilha pilha = new Pilha();
 
-        pilha.definir(5);
+        pilha.definir(10);
         pilha.converter();
 
     }
